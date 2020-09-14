@@ -1,6 +1,8 @@
 # Paycheck Protection Program
 This repo contains information about the PPP loans given to Utahns.
 
+See (https://observablehq.com/@mitzbic/utah-paycheck-protection-program) for a visualization
+
 # SBA Loans Micro Data
 https://home.treasury.gov/policy-issues/cares-act/assistance-for-small-businesses/sba-paycheck-protection-program-loan-level-data
 
